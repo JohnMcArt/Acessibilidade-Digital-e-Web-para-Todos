@@ -22,6 +22,7 @@ Sites podem apresentar diversas barreiras para pessoas com deficiência ou com d
 
 Por isso, o projeto busca apresentar o tema de maneira prática, visual e interativa, mostrando tanto os principais problemas quanto possíveis soluções para construir experiências digitais mais inclusivas.
 
+![Git Pages](https://marinapcoder.github.io/acessibilidade-digital/) 
 ---
 
 ## 👥 Equipe
